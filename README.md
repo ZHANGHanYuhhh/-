@@ -130,6 +130,8 @@ nums2 = [3, 4]
 
 比如输入字符串为 "LEETCODEISHIRING" 行数为 3 时，排列如下：
 
+![Image text](https://github.com/ZHANGHanYuhhh/-/blob/master/6-1.png)
+
 之后，你的输出需要从左往右逐行读取，产生出一个新的字符串，比如："LCIRETOESIIGEDHN"。
 
 请你实现这个将字符串进行指定行数变换的函数：
