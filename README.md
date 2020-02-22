@@ -366,7 +366,7 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 
 </table></td>
 分析：很简单的转换，建立个位十位百位千位的对应转换字符串数组即可（不知道更优化的解法）。
-![image test](https://github.com/ZHANGHanYuhhh/-/blob/master/12.png)
+![Image test](https://github.com/ZHANGHanYuhhh/-/blob/master/12.png)
 
 时间复杂度O(1)，空间复杂度O(1)。
 
