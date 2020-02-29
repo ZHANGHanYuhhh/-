@@ -25,7 +25,7 @@ class Solution {
 			return NULL;
 		}
 		while(lists.size()!=0) {
-			//记录最小节点位置，将最小节点取出，加入到链表中，然后重新push进vector
+			//璁板綍鏈�灏忚妭鐐逛綅缃紝灏嗘渶灏忚妭鐐瑰彇鍑猴紝鍔犲叆鍒伴摼琛ㄤ腑锛岀劧鍚庨噸鏂皃ush杩泇ector
 			int position = 0;
 			int min_point = lists[0]->val;
 		//	cout<<"list+size"<<lists.size()<<endl;
