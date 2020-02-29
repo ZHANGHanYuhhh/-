@@ -41,9 +41,9 @@ public:
 		if(initial ==0){
 			initial = 1;
 			initialVector();
-		}//³õÊ¼»¯¶ÔÓ¦¹ØÏµ 
+		}//åˆå§‹åŒ–å¯¹åº”å…³ç³» 
 		vector<string> temp;
-		//Å×È¥µÚÒ»¸ö£¬ÆäÓà×Ö·û´®µİ¹é£¬×îºóÏà½Ó
+		//æŠ›å»ç¬¬ä¸€ä¸ªï¼Œå…¶ä½™å­—ç¬¦ä¸²é€’å½’ï¼Œæœ€åç›¸æ¥
 		char first = digits[0];
 		if(digits.length()>1)
 		{
