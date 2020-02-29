@@ -6,7 +6,7 @@ using namespace std;
 class Solution {
 public:
     vector<vector<int> > threeSum(vector<int>& nums) {
-		//ÏÈ½øĞĞÊı×éÅÅĞò£¬È»ºóÔÙ¼ÆËã
+		//å…ˆè¿›è¡Œæ•°ç»„æ’åºï¼Œç„¶åå†è®¡ç®—
 		vector<vector<int> > output;
 		if(nums.size()<3)
 			return output;
